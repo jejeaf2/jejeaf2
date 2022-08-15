@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Jeje Ahmad Fauzi**.  
 
-Saya seorang Mahasiswa UBSI Karawang di semester 5 ini sedang menjabat sebagai **Ketua Umum UKM MAPASIKA** berikut saya lampirkan [SK Kepengurusan](https://drive.google.com/file/d/1F3kKIRXIV9i3heIclX2qxS4_mkXw1C8n/view?usp=sharing).  
+Saya seorang Mahasiswa UBSI Karawang di semester 5, menjabat sebagai **Ketua Umum UKM MAPASIKA** berikut saya lampirkan [SK Kepengurusan](https://drive.google.com/file/d/1F3kKIRXIV9i3heIclX2qxS4_mkXw1C8n/view?usp=sharing).  
 
 Saat ini saya sedang menempuh program MSIB Cycle 3 dan diterima di bagian Studi Independen bagian Pengembang Front-End Web PT Presentologic (Dicoding).  
 
