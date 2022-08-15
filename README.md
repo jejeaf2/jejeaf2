@@ -1,13 +1,18 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Jeje Ahmad Fauzi**.\
+Perkenalkan nama saya **Jeje Ahmad Fauzi**.  
 
-Saya seorang Mahasiswa UBSI Karawang di semester 5 ini sedang menjabat sebagai **Ketua Umum UKM MAPASIKA** berikut saya lampirkan [SK Kepengurusan](https://drive.google.com/file/d/1F3kKIRXIV9i3heIclX2qxS4_mkXw1C8n/view?usp=sharing).\
+Saya seorang Mahasiswa UBSI Karawang di semester 5 ini sedang menjabat sebagai **Ketua Umum UKM MAPASIKA** berikut saya lampirkan [SK Kepengurusan](https://drive.google.com/file/d/1F3kKIRXIV9i3heIclX2qxS4_mkXw1C8n/view?usp=sharing).  
 
-Saya bertanggung jawab pada kualitas materi Gunung Hutan dengan pencapain pembuatan [Ebook GH](https://drive.google.com/file/d/1BdEdI6m6GIIuE69BtnnxdQZG1uBhnKLO/view?usp=sharing).\
+Saat ini saya sedang menempuh program MSIB Cycle 3 dan diterima di bagian Studi Independen bagian Pengembang Front-End Web PT Presentologic (Dicoding).  
 
-Saya juga memiliki sertifikat Kompetensi DBMS [Serkom DBMS](https://drive.google.com/file/d/1vsMfAkgobalgPo7NRKyEr35ssmj0X2Aq/view?usp=sharing).\
-
+Berikut adalah link sertfikat Kompetensi yang saya dapatkan :  
+[Sertifikat Database Management System](https://drive.google.com/file/d/1vsMfAkgobalgPo7NRKyEr35ssmj0X2Aq/view?usp=sharing)  
+[Sertifikat Memulai Dasar Pemrograman untuk Menjadi Pengembang  
+Software](https://drive.google.com/file/d/1dhEYx4ZA61hidRlAXBQcxRI-V1ry5WCH/view?usp=sharing)  
+[Sertifikat Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://drive.google.com/file/d/1cnlGyAwtjK723lZGcKNmV9tiH48Jly2Y/view?usp=sharing)  
+[Sertifikat Belajar Dasar Git dengan GitHub ](https://drive.google.com/file/d/1dkby8lM-R1strLG5mDa467XP_u-0zGGd/view?usp=sharing)  
+  
 Jika kamu tertarik untuk berkenalan denganku, silakan hubungi aku di [email](jejeahmadfauzi04@gmail.com) ya.
 
 <p align="left">
